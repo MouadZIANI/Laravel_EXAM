@@ -23,6 +23,7 @@
 <script src="{{ asset('front/js/libs/material-components-web.min.js') }}"></script>
 <script src="{{ asset('front/js/libs/swiper.min.js') }}"></script>
 <script src="{{ asset('front/js/scripts.js') }}"></script>
+@yield('js')
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1rF9bttCxRmsNdZYjW7FzIoyrul5jb-s&amp;callback=initMap" async defer></script>
 </body>
 </html>
