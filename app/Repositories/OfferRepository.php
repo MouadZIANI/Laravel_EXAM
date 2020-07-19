@@ -84,8 +84,6 @@ class OfferRepository {
             ],
             "currency" => "MAD",
         ]);
-
-        dd($offer);
     }
 
     public function fetchOffersFromFirestore()

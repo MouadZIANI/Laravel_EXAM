@@ -7,7 +7,8 @@
             <div class="mask"></div>
             <div class="header-image-content mt-3 home-page offset-bottom" style="min-height: 350px;">
                 <h1 class="title">Find your house online</h1>
-                <p class="desc">Leading Real Estate Company</p>
+                <p class="desc">BlackLiveMatters</p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquam animi at exercitationem expedita explicabo in iste iusto molestiae nisi placeat possimus quas quis quos sit totam velit, vero voluptates!
             </div>
             <div class="theme-container mb-6">
                 <div class="mdc-card main-content-header">
